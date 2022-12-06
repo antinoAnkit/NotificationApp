@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50939478741",
+    "project_id": "density-995ff",
+    "storage_bucket": "density-995ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50939478741:android:5df28188f9ffe35f7ad85c",
+        "android_client_info": {
+          "package_name": "com.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50939478741-kpeu7f2itkfhd922rmoj358pjge3qb95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationapp",
+            "certificate_hash": "9660ad8ba259e50cb099645bd2a1dd68fc3b8e41"
+          }
+        },
+        {
+          "client_id": "50939478741-04de7nvh7uafktgdvh06st7tvvdqv6j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8O_zJMd6wguHq4V_DNQkAmTnyuzMFVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50939478741-04de7nvh7uafktgdvh06st7tvvdqv6j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
