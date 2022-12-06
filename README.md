@@ -12,7 +12,7 @@
 - Includes [Push Notification](https://rnfirebase.io/messaging/notifications)
 
 ## How to customize theme
-- Just navigate to `PROJECT-DIRECTORY/src/theme/customeTheme.js` and make the desired changes.[example file](https://github.com/DivyaSharmaAntino/NotificationApp/blob/main/src/theme/customTheme.js)
+- Just navigate to `PROJECT-DIRECTORY/src/theme/customeTheme.js` and make the desired changes.[example file](https://github.com/antinoAnkit/notificationApp/blob/main/src/theme/customTheme.js))
 - You can change colors, fonts, initial color mode(dark/light) etc.
 - [see more theme options](https://docs.nativebase.io/customizing-theme) 
 
